@@ -4,7 +4,7 @@ Lab02 new readme.md
 [![workflow](https://github.com/aungkyawzaw30/sem/actions/workflows/main.yml/badge.svg)](https://github.com/aungkyawzaw30/sem/actions/workflows/main.yml)
 
 
-![GitHub Workflow Status (develop)](https://img.shields.io/github/workflow/status/<aungkyawzaw30>/<sem>/<action name taken from main.yml>/<branch>?style=flat-square)
+[GitHub Workflow Status (develop)](https://img.shields.io/github/workflow/status/<aungkyawzaw30>/<sem>/<action name taken from main.yml>/<branch>?style=flat-square)
 
 [![LICENSE](https://img.shields.io/github/license/aungkyawzaw30/sem.svg?style=flat-square)](https://github.com/aungkyawzaw30/sem/blob/master/LICENSE)
 
