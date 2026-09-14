@@ -1,7 +1,7 @@
 Software Engineering Methods
 Lab02 new readme.md
 
-![![workflow](https://github.com/aungkyawzaw30/sem/actions/workflows/main.yml/badge.svg)](https://github.com/aungkyawzaw30/sem/actions/workflows/main.yml)
+[![workflow](https://github.com/aungkyawzaw30/sem/actions/workflows/main.yml/badge.svg)](https://github.com/aungkyawzaw30/sem/actions/workflows/main.yml)
 
 [![LICENSE](https://img.shields.io/github/license/aungkyawzaw30/sem.svg?style=flat-square)](https://github.com/aungkyawzaw30/sem/blob/master/LICENSE)
 
